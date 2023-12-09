@@ -1,0 +1,63 @@
+.body{
+  padding: 0;
+  margin: 0;
+}
+.image1{
+  width: 500px;
+  height: 620px;
+  margin-left: 400px;
+  margin-right: 400px;
+  position:relative;
+}
+.search_text{
+  background-color: aliceblue;
+  width: 300px;
+  height:30px;
+  border-radius: 10px;
+  top:60px;
+  left:460px;
+  right:300px;
+  position :absolute;
+  
+  
+}
+.search_icon{
+  background-color: aliceblue;
+  width: 40px;
+  height:40px;
+  border-radius: 50%;
+  top:60px;
+  left:770px;
+  right:200px;
+  position :absolute;
+}
+.photo2{
+  position:absolute;
+  top:90px;
+  left:470px;
+  right:500px;
+}
+.sub-photo2{
+  width:300px;
+  height:300px;
+}
+.weathercity{
+  position:absolute;
+  font-size: 30px;
+  top:400px;
+  left:600px;
+  right:500px;
+  color:aliceblue;
+  font-style: italic;
+  
+}
+.weathertemp{
+  position:absolute;
+  font-size: 30px;
+  top:440px;
+  left:600px;
+  right:500px;
+  color:aliceblue;
+  font-style: italic;
+  font-weight: 600;
+}
