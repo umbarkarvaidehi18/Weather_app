@@ -49,7 +49,6 @@
   right:500px;
   color:aliceblue;
   font-style: italic;
-  
 }
 .weathertemp{
   position:absolute;
@@ -60,4 +59,26 @@
   color:aliceblue;
   font-style: italic;
   font-weight: 600;
+}
+.weatherHumidity{
+  
+    position:absolute;
+    font-size: 25px;
+    top:500px;
+    left:700px;
+    color:aliceblue;
+    font-style: italic;
+    font-weight: 600;
+  }
+.weatherSpeed{
+  
+    position:absolute;
+    font-size: 25px;
+    top:500px;
+    left:410px;
+    right:500px;
+    color:aliceblue;
+    font-style: italic;
+    font-weight: 600;
+  
 }
